@@ -1,0 +1,1 @@
+g++ -std=c++17 forward_list.cpp -o fwlist
